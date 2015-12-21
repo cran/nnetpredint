@@ -1,0 +1,13 @@
+dc1e85454bc2b7412d5e1598d6b24a17 *DESCRIPTION
+a00c0a56e2e260bc3f60affec43dc6ec *NAMESPACE
+924a32a5e40300b7a1130a4792ec7d14 *R/jacobianS3.R
+80e56559526644448d8267cb55e148a5 *R/nnetGradient.R
+e4ef219b8055aebf28b5ccd90e438bcc *R/nnetPredIntS3.R
+9c26f47732883254de270f3d4dbabd00 *man/activate.Rd
+ae64ca0fd83edd1c37c23598d8d7910c *man/jacobian.Rd
+4a82ed7aba47e90f6232e59ea12c0611 *man/nnetPredInt.Rd
+b4a3d739fbb3e85a9a8ebabfb1778335 *man/nnetpredint-internal.Rd
+8c0391cffbf0d5d23a312adf979bc1b2 *man/transWeightListToVect.Rd
+75373176c4de0b62019c8acc58c93a0f *tests/test1.R
+50ef0b26b98ef16ed620a6e3856cad3d *tests/test2.R
+d586196dbefb445f3cbe2ceee7e058c5 *tests/test3.R
